@@ -1,16 +1,6 @@
-# tippingapp
+Tipping app
 
-A new Flutter project.
+This app was created using Flutter sdk 2.10.3 linked in with Firebase authentication and Firebase Firestore 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+However not yet fully complete, it was designed to make tipping in restaurants easier and to guarantee that your tip will end up in the waiter pockets.
+Simply sign up to the app, find your restaurant, find the waiter and tip them. This money will then be added straight into the waiters account.  
